@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+body{
+	background-color:lightcyan
+}
+div{
+	height:100px;
+	width:100px;
+	background-color:orange;
+	border-radius:50%
+}
+h2{
+	background-color:pink
+}
